@@ -10,7 +10,7 @@
     "slicemachine": "start-slicemachine"
   },
   "dependencies": {
-    "@prismicio/client": "^6.6.1",
+    "@prismicio/client": "^4",
     "@prismicio/helpers": "^2.3.1",
     "@prismicio/react": "^2.4.2",
     "@prismicio/slice-simulator-react": "^0.2.2",
@@ -19,6 +19,7 @@
     "faunadb": "^4.6.0",
     "next": "12.1.6",
     "next-auth": "^4.6.1",
+    "prismic-dom": "^2.2.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.4.0",

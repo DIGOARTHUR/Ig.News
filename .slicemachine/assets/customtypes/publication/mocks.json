@@ -1,0 +1,21 @@
+{
+  "id": "3b5c1d87-2866-48c7-852f-096aaaee849d",
+  "uid": "ut-quo-iusto",
+  "type": "publication",
+  "data": {
+    "Title": [
+      {
+        "type": "heading2",
+        "text": "Extend user-centric models",
+        "spans": []
+      }
+    ],
+    "Content": [
+      {
+        "type": "paragraph",
+        "text": "Occaecat incididunt nulla nulla in tempor. Veniam non ipsum magna sunt enim minim incididunt labore laborum.",
+        "spans": []
+      }
+    ]
+  }
+}

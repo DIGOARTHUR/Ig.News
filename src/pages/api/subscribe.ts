@@ -6,9 +6,12 @@ import { stripe } from "../../services/stripe";
 
 type User = {
     ref: {
-        id: string;
+      id: string;
     }
-}
+    data: {
+      stripe_customer_id: string
+    }
+  }
 
 export default async function handle(req: NextApiRequest, res: NextApiResponse) {
     if (req.method === 'POST') {

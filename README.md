@@ -102,7 +102,7 @@ https://simpleicons.org/?q=react
   * [`Async/await`](https://www.w3schools.com/js/js_async.asp) 
 * CSS
   * [`Sass`](https://sass-lang.com) (Pré-processadores)
-  * [`Global Style`]
+  * [`Global Style`]()
      * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
      * [`Reset CSS`](https://www.alura.com.br/artigos/o-que-e-reset-css) (Resete de config. de medidas da página)
   * [`Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (Posicionamento de elementos)
@@ -110,15 +110,15 @@ https://simpleicons.org/?q=react
   * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
   * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
 * [`NextJS`](https://nextjs.org/docs/getting-started) 
-  * [`Estrutura`]() (Superset para o JS, utilizado para tipar o JS)
-  * [`Estilização`]() (Framework para React) 
-  * [`Variáveis Ambientes`]() (Framework para React) 
-  * [`Rotas`]() (Framework para React) 
-  * [`API Routes`]() (Framework para React) 
-     * [`Parametrização nas rotas`]() (Framework para React) 
-* Stripe
-* FaunaDB
-* Prismic
+  * `Estrutura` (Estruturação de pastas e arquivos)
+  * `Estilização`(Aplicação de CSS) 
+  * `Variáveis Ambientes` (Uso de variáveis ambiente) 
+  * `Rotas` (Aplicação de rotas para API) 
+  * `API Routes`
+     * `Parametrização nas rotas` (Framework para React) 
+*  [`Stripe`](https://stripe.com/docs) (API que permite processamento de pagamentos)
+*  [`FaunaDB`](https://docs.fauna.com/fauna/current) (Banco de dados relacional na Nuvem)
+*  [`Prismic CMS`](https://docs.fauna.com/fauna/current/) (Gerenciador de Sistema de Gestão de Conteúdos) 
 
 
  ![Alt ou título da imagem](https://user-images.githubusercontent.com/59892368/177879177-96508403-9369-464b-9e67-db93face94d2.png)

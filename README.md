@@ -49,9 +49,47 @@ https://simpleicons.org/?q=react
      
 <hr>
   
+ <!------------------------------------SUMMARY-->
+<p align="center">
+  <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>  
+  
+  
+   <!------------------------------------DESCRIPTION-->
 
-     
- 
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
+> Esta é uma aplicação que traz novidades, notícias do mundo da tecnologia. Para ter acesso, basta fazer a assinatura por meio do login feito pelo o GitHub.
+  
+  
+<!------------------------------------LAYOUT -->
+
+
+## FIGMA 
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
+<a href="www.figma.com/file/YM4JFm0d4b4TovqmCNrgRW/ig.news" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+
+    
+
+## DESKTOP
+
+  ![image](https://user-images.githubusercontent.com/59892368/178284651-2552afa6-3865-4601-b23d-d86c27fa2b83.png)
+  
+  ![image](https://user-images.githubusercontent.com/59892368/178284617-64e322f5-39f2-46da-ae7c-13b91a8f42b8.png)
+  
+  ![image](https://user-images.githubusercontent.com/59892368/178284547-940f32b7-c798-41e2-abf9-7b9b352e3bd8.png)
+
+
+ ![image](https://user-images.githubusercontent.com/59892368/178286843-a2d97e06-d2ad-4e3c-853d-afc2cb338baa.png)
+  
+  ![image](https://user-images.githubusercontent.com/59892368/178292662-887a5bf5-6f8d-4b16-8e6e-290afe532ef4.png)
+
+![image](https://user-images.githubusercontent.com/59892368/178297591-958e618f-26ba-4c04-8028-d3953dda42e8.png)
+  
+  
  ![Alt ou título da imagem](https://user-images.githubusercontent.com/59892368/177879177-96508403-9369-464b-9e67-db93face94d2.png)
 
 

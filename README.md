@@ -172,7 +172,7 @@ git remote -v
 O ignite da [@Rocketseat](https://github.com/Rocketseat) vem me impressionando cada vez mais e este foi o Capítulo III da trilha de ReactJS. A cada desafio venho aprofundando e aprendendo coisas novas, obtendo noção da existência de diversas ferramentas incríveis.
 
  ---
-  Quero agradecer a Rocketseat, vocês não tem ideia do quanto contribuem para a comunidade. ♥
+Só tenho agradecer ♥
   
   
   

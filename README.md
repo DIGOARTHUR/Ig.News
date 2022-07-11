@@ -15,9 +15,18 @@ https://simpleicons.org/?q=react
   <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/177872971-604d5474-0c78-4de6-a35b-94c9544bdf29.png">
 </p>  
 
+ <!------------------------------------SUMMARY-->
+<p align="center">
+  <a href="https://github.com/DIGOARTHUR/Ig.News#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>  
+
  <!------------------------------------SHIELDS PROJECT-->
-  ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Move.it)
-  ![GitHub](https://img.shields.io/github/license/digoarthur/Move.it)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Ig.News)
+  ![GitHub](https://img.shields.io/github/license/digoarthur/Ig.News)
   
   
 
@@ -49,14 +58,7 @@ https://simpleicons.org/?q=react
      
 <hr>
   
- <!------------------------------------SUMMARY-->
-<p align="center">
-  <a href="https://github.com/DIGOARTHUR/Move.it#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Move.it#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Move.it#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Move.it#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Move.it#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>  
+
   
   
    <!------------------------------------DESCRIPTION-->
@@ -119,13 +121,61 @@ https://simpleicons.org/?q=react
 *  [`Stripe`](https://stripe.com/docs) (API que permite processamento de pagamentos)
 *  [`FaunaDB`](https://docs.fauna.com/fauna/current) (Banco de dados relacional na Nuvem)
 *  [`Prismic CMS`](https://docs.fauna.com/fauna/current/) (Gerenciador de Sistema de Gestão de Conteúdos) 
+  
+ 
+  <!------------------------------------RUN APP-->
+ 
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142216697-dd93272c-c614-4664-9d63-c4e4dfc3e0f3.gif"> Rodando a Aplicação
+ 
+
+1. Clonar repositório:
+
+```
+git clone https://github.com/DIGOARTHUR/Ig.News.git
+```
+
+2. Instalar dependências
+
+```
+yarn install
+```
+
+3. Rodar aplicativo
+
+```
+yarn dev
+```
+
+4. Acesse `http://localhost:3000/` e navegue pelo site
+
+:warning: 5. Trocar URL do repositorio remoto (caso necessário)
+
+  5.1 Ver qual o repositorio atual
+```
+git remote -v
+```
+  5.2 Mudar a URL do repositorio remoto
+```
+git remote set-url origin <LinkDoNovoRepositorio>
+```
+  5.3 Verifique se a mudança foi realizada
+```
+git remote -v
+```
 
 
- ![Alt ou título da imagem](https://user-images.githubusercontent.com/59892368/177879177-96508403-9369-464b-9e67-db93face94d2.png)
 
 
 
 
+ # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622627-c1eaa513-ca90-49e2-b5b8-c11d369becef.png"> Por quê?  <!---write here : motivation that led to created ; why did you do this program?   -->
+O ignite da [@Rocketseat](https://github.com/Rocketseat) vem me impressionando cada vez mais e este foi o Capítulo III da trilha de ReactJS. A cada desafio venho aprofundando e aprendendo coisas novas, obtendo noção da existência de diversas ferramentas incríveis.
+
+ ---
+  Quero agradecer a Rocketseat, vocês não tem ideia do quanto contribuem para a comunidade. ♥
+  
+  
+  
 
 
 

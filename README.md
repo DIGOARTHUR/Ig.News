@@ -71,7 +71,7 @@ https://simpleicons.org/?q=react
 ## FIGMA 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
   
-<a href="www.google.com.br" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://www.figma.com/file/YM4JFm0d4b4TovqmCNrgRW/ig.news?node-id=1%3A2" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
 
     
 
@@ -91,6 +91,36 @@ https://simpleicons.org/?q=react
 ![image](https://user-images.githubusercontent.com/59892368/178297591-958e618f-26ba-4c04-8028-d3953dda42e8.png)
   
   
+  
+  <!------------------------------------PRODUCTION SKILLS-->
+
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
+
+  
+* JavaScript
+  * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com transformação de valores, conteúdo)
+  * [`Async/await`](https://www.w3schools.com/js/js_async.asp) 
+* CSS
+  * [`Sass`](https://sass-lang.com) (Pré-processadores)
+  * [`Global Style`]
+     * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
+     * [`Reset CSS`](https://www.alura.com.br/artigos/o-que-e-reset-css) (Resete de config. de medidas da página)
+  * [`Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (Posicionamento de elementos)
+* React
+  * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
+  * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
+* [`NextJS`](https://nextjs.org/docs/getting-started) 
+  * [`Estrutura`]() (Superset para o JS, utilizado para tipar o JS)
+  * [`Estilização`]() (Framework para React) 
+  * [`Variáveis Ambientes`]() (Framework para React) 
+  * [`Rotas`]() (Framework para React) 
+  * [`API Routes`]() (Framework para React) 
+     * [`Parametrização nas rotas`]() (Framework para React) 
+* Stripe
+* FaunaDB
+* Prismic
+
+
  ![Alt ou título da imagem](https://user-images.githubusercontent.com/59892368/177879177-96508403-9369-464b-9e67-db93face94d2.png)
 
 

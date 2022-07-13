@@ -67,7 +67,7 @@ https://simpleicons.org/?q=react
    <!------------------------------------DESCRIPTION-->
 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  Sobre a aplicação <!---write here : talk a little about project: what's does, example.  -->
-> Esta é uma aplicação que traz novidades, notícias do mundo da tecnologia. Para ter acesso, basta fazer a assinatura por meio do login feito pelo o GitHub.
+> Esta é uma aplicação com a ideia de um blog que traz novidades, notícias do mundo da tecnologia. Para ter acesso, basta fazer a assinatura por meio do login feito pelo o GitHub. Foi desenvolvida utilizando tecnologias como Stripe para gerenciamento de pagamento, FaunaDB como banco de dados na nuvem para salvar as informações a respeito do cliente, Prismic CMS como tecnologia de entrada de dados ( por ele é possível fazer posts, por exemplo, por uma plataforma já pronta e que é enviado para o blog) e o principal, NextJS, onde todas essas outras tecnologias estão ligadas.
   
   
 <!------------------------------------LAYOUT -->

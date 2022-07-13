@@ -15,14 +15,7 @@ https://simpleicons.org/?q=react
   <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/177872971-604d5474-0c78-4de6-a35b-94c9544bdf29.png">
 </p>  
 
- <!------------------------------------SUMMARY-->
-<p align="center">
-  <a href="https://github.com/DIGOARTHUR/Ig.News#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Ig.News#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Ig.News#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Ig.News#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/DIGOARTHUR/Ig.News#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>  
+
 
  <!------------------------------------SHIELDS PROJECT-->
   ![GitHub last commit](https://img.shields.io/github/last-commit/digoarthur/Ig.News)
@@ -61,6 +54,19 @@ https://simpleicons.org/?q=react
      
 <hr>
   
+  <!------------------------------------PROJECT ICON-->
+  
+<h1 align="center">
+  <img width="200" height="150" alt="dtmoney" title="dtmoney" src="https://user-images.githubusercontent.com/59892368/178841834-ea52e465-d945-46b0-8187-2b9b6f3f9021.svg" />
+</h1>
+   <!------------------------------------SUMMARY-->
+<p align="center">
+  <a href="https://github.com/DIGOARTHUR/Ig.News#--sobre-a-aplicação-">Sobre a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#--interfaces-"> Interfaces</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#-pontos-abordados-">Pontos Abordados</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#-rodando-a-aplicação">Rodando Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DIGOARTHUR/Ig.News#-por-quê--">Por quê?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>  
 
   
   

@@ -11,9 +11,8 @@ https://simpleicons.org/?q=react
 
  <!------------------------------------BANNER PROJECT-->
 
-<p align="center">
-  <img  alt="skills"  width="950" height="180" src="https://user-images.githubusercontent.com/59892368/177872971-604d5474-0c78-4de6-a35b-94c9544bdf29.png">
-</p>  
+![image](https://user-images.githubusercontent.com/59892368/179835702-561489ba-7120-4bf3-a6b7-b0c44c884841.png)
+
 
 
 

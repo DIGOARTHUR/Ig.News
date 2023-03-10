@@ -26,12 +26,12 @@ https://simpleicons.org/?q=react
 #### Stacks:
 <p align="left">
 
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663188-8298a9bf-f3ce-4881-944f-e94edf37beed.png"><a/>
-   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663192-19043371-127c-47f0-8553-0f407c51e2c5.png"><a/>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663193-40e11362-c724-49cf-a0b5-a20f98c8e4ba.png"><a/>
-   <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/110185477-3255b480-7df1-11eb-8399-07a57b05eefb.png"><a/>
-   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149662563-c86be27c-b905-4aaf-b726-fb1146465ea7.png"><a/>
-   <a href="https://nextjs.org/"><img  alt="NextJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/152626659-7431e51e-e4ea-4ee5-baf9-c916ccd72ae9.png"><a/>
+ <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
+   <a href="https://github.com/braziljs/eloquente-javascript"><img  alt="Javascript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762520-8226f647-a814-4723-8e6d-ed0334550838.svg"><a/>
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762519-fc191098-1198-4668-9eb5-d0c1481da8c7.svg"><a/>
+    <a href="https://pt-br.reactjs.org/"><img  alt="ReactJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg"><a/>
+   <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
+  <a href="https://nextjs.org/"><img  alt="NextJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762514-59814e6d-5cc8-4981-aa11-904b83a51d40.svg"><a/>
     <a href="https://stripe.com"><img  alt="Stripe"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/177874590-74913bd2-2a35-4c81-b88d-692d1476e929.svg"><a/>
      <a href="https://fauna.com"><img  alt="FaunaDB"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/177874582-193a264a-3de0-46e1-8e97-5b1b7bf50016.svg"><a/>
       <a href="https://www.prismic.io/"><img  alt="Prismic"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/177874586-6ee07813-20c1-4a1f-a12d-79bdbe56253b.svg"><a/>
@@ -48,8 +48,9 @@ https://simpleicons.org/?q=react
  -->
  <!------------------------------------TOOLS-->
  #### Tools:
- <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
- <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>        
+ <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381414-d3066c8b-c3ee-4fae-943d-481857e88000.svg"><a/>
+ <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/223381109-88617798-75ae-4f3a-bc4a-1210637f818c.svg"><a/>
+  <a href="https://yarnpkg.com"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/197615074-2e78b82c-b853-455c-8920-272cf1ce6399.svg"><a/>        
      
 <hr>
   
@@ -78,7 +79,6 @@ https://simpleicons.org/?q=react
 <!------------------------------------LAYOUT -->
 
 
-## FIGMA 
 # <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/149667468-f228e4e8-c2f0-474d-858d-6b9216f49b2f.png">  Interfaces <!---write here : demonstration of the application layout.  -->
   
 <a href="https://www.figma.com/file/YM4JFm0d4b4TovqmCNrgRW/ig.news?node-id=1%3A2" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/></a>
@@ -86,26 +86,40 @@ https://simpleicons.org/?q=react
     
 
 ## DESKTOP
+   |                             Tela Home                            |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/178284651-2552afa6-3865-4601-b23d-d86c27fa2b83.png) |
+   
 
-  ![image](https://user-images.githubusercontent.com/59892368/178284651-2552afa6-3865-4601-b23d-d86c27fa2b83.png)
-  
-  ![image](https://user-images.githubusercontent.com/59892368/178284617-64e322f5-39f2-46da-ae7c-13b91a8f42b8.png)
-  
-  ![image](https://user-images.githubusercontent.com/59892368/178284547-940f32b7-c798-41e2-abf9-7b9b352e3bd8.png)
+|                             Tela Posts                            |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/178284617-64e322f5-39f2-46da-ae7c-13b91a8f42b8.png) |   
+   
+   
+|                             Tela Post Selected                            |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/178284547-940f32b7-c798-41e2-abf9-7b9b352e3bd8.png) |   
+   
 
-
- ![image](https://user-images.githubusercontent.com/59892368/178286843-a2d97e06-d2ad-4e3c-853d-afc2cb338baa.png)
-  
-  ![image](https://user-images.githubusercontent.com/59892368/178292662-887a5bf5-6f8d-4b16-8e6e-290afe532ef4.png)
-
-![image](https://user-images.githubusercontent.com/59892368/178297591-958e618f-26ba-4c04-8028-d3953dda42e8.png)
+   
+|                              Login GitHub                        |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/178286843-a2d97e06-d2ad-4e3c-853d-afc2cb338baa.png) |   
+   
+ 
+|                             Tela Home Logada                       |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/178292662-887a5bf5-6f8d-4b16-8e6e-290afe532ef4.png) |   
+   
+|                                Tela Subscribed                           |
+| :-------------------------------------------------------------------: |
+|   ![image](https://user-images.githubusercontent.com/59892368/178297591-958e618f-26ba-4c04-8028-d3953dda42e8.png) |   
   
   
   
   <!------------------------------------PRODUCTION SKILLS-->
 
 ## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
-
   
 * JavaScript
   * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com transformação de valores, conteúdo)

@@ -117,32 +117,48 @@ https://simpleicons.org/?q=react
   
   
   
-  <!------------------------------------PRODUCTION SKILLS-->
+ <!------------------------------------LIST: STACKS , LIBS & TOOLS-->
 
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/142231777-8c0e09fa-ac09-4654-89d6-6bb986bde09b.gif"> Pontos Abordados: <!---write here: learned concepts; -->
-  
-* JavaScript
-  * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com transformação de valores, conteúdo)
-  * [`Async/await`](https://www.w3schools.com/js/js_async.asp) 
-* CSS
+## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks <!---write here: learned concepts; -->
+
+### Lógica 
+*  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-JavaScript-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
+   * [`Map`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Map) (Iteração com transformação de valores, conteúdo)
+   * [`Async/await`](https://www.w3schools.com/js/js_async.asp) 
+   
+### Estilização 
+* <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> ![Alt ou título da imagem](https://img.shields.io/badge/-SASS-/?logo=SASS&logoColor=white&color=pink)<a/> 
   * [`Sass`](https://sass-lang.com) (Pré-processadores)
   * [`Global Style`]()
      * [`Variáves`](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) (Variáveis aplicados no CSS, como de cores por exemplo)
      * [`Reset CSS`](https://www.alura.com.br/artigos/o-que-e-reset-css) (Resete de config. de medidas da página)
   * [`Flexbox`](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (Posicionamento de elementos)
-* React
-  * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
-  * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
-* [`NextJS`](https://nextjs.org/docs/getting-started) 
+
+   
+### Framework / Lib
+ <a href="https://nextjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-NextJS-/?logo=Next.js&logoColor=white&color=lightgrey)<a/>  
   * `Estrutura` (Estruturação de pastas e arquivos)
   * `Estilização`(Aplicação de CSS) 
   * `Variáveis Ambientes` (Uso de variáveis ambiente) 
   * `Rotas` (Aplicação de rotas para API) 
   * `API Routes`
-     * `Parametrização nas rotas` (Framework para React) 
-*  [`Stripe`](https://stripe.com/docs) (API que permite processamento de pagamentos)
-*  [`FaunaDB`](https://docs.fauna.com/fauna/current) (Banco de dados relacional na Nuvem)
-*  [`Prismic CMS`](https://docs.fauna.com/fauna/current/) (Gerenciador de Sistema de Gestão de Conteúdos) 
+     * `Parametrização nas rotas` (Framework para React)    
+   
+
+<a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactJS-/?logo=React&logoColor=white&color=blue)<a/> 
+  * [`Componente`](https://reactjs.org/docs/components-and-props.html) (Uso de componentes)
+  * [`Estado`](https://reactjs.org/docs/state-and-lifecycle.html) (Uso de hooks para controle de estado e ciclo de vida da aplicação)
+### Gerenciador / Pacotes
+ <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
+  *  [`Stripe`](https://stripe.com/docs) (API que permite processamento de pagamentos)
+  *  [`FaunaDB`](https://docs.fauna.com/fauna/current) (Banco de dados relacional na Nuvem)
+  *  [`Prismic CMS`](https://docs.fauna.com/fauna/current/) (Gerenciador de Sistema de Gestão de Conteúdos) 
+
+ ### Versionameto
+ <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
+ ### IDE
+ <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/>   
+  
   
  
   <!------------------------------------RUN APP-->

@@ -27,7 +27,7 @@ https://simpleicons.org/?q=react
 <p align="left">
 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img  alt="HTML5"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/222955162-5b69600b-8953-45bd-9144-56fb3491d54e.svg"><a/>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img  alt="CSS3"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762519-fc191098-1198-4668-9eb5-d0c1481da8c7.svg"><a/>
+  <a href="https://sass-lang.com"><img  alt="SASS"  width="80" height="50" src="https://user-images.githubusercontent.com/59892368/223991584-175a2777-acde-4c71-947c-7844c64e595b.svg"><a/>
    <a href="https://www.typescriptlang.org/"><img  alt="TypeScript"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg"><a/>
   <a href="https://nextjs.org/"><img  alt="NextJS"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/210762514-59814e6d-5cc8-4981-aa11-904b83a51d40.svg"><a/>
     <a href="https://stripe.com"><img  alt="Stripe"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/177874590-74913bd2-2a35-4c81-b88d-692d1476e929.svg"><a/>
